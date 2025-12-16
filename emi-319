@@ -1,1 +1,4 @@
-test
+{
+  "apiPath": "https://api.creditclimb.net",
+  "h5Path": "https://h5.creditclimb.net"
+} 
